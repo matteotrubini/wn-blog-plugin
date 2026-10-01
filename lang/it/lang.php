@@ -79,7 +79,7 @@ return [
         'return_to_posts' => 'Ritorna all\'elenco dei post',
         'posted_byline' => 'Postato in :categories il :date.',
         'posted_byline_no_categories' => 'Postato il :date.',
-        'date_format' => 'M d, Y',
+        'date_format' => 'd/m/Y',
     ],
     'categories' => [
         'list_title' => 'Gestisci le categorie del blog',
